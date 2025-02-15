@@ -20,7 +20,7 @@ To view the project:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/landing-page.git
+    git clone https://github.com/AdityaBN271/skills-introduction-to-github/tree/Rd_infro_technology/Landing_page
     ```
 
 2. Navigate to the project folder:
